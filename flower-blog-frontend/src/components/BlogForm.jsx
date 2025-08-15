@@ -129,7 +129,7 @@ import React, { useState, useEffect } from 'react';
 import axios from 'axios';
 
 // Backend URL
-const BACKEND_URL = 'https://the-flower-journal.onrender.com/';
+const BACKEND_URL = 'https://the-flower-journal.onrender.com';
 
 // Hardcoded admin credentials for demonstration
 const ADMIN_USERNAME = 'admin';
